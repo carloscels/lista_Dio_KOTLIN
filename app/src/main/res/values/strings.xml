@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListDio</string>
+    <string name="labal_new_task">criar tarefa</string>
+    <string name="label_titulo">titulo</string>
+    <string name="label_data">data</string>
+    <string name="label_hora">hora</string>
+    <string name="label_cancelar">cancelar</string>
+    <string name="descricao">Nova Tarefa</string>
+    <string name="label_editar">editar</string>
+    <string name="label_deletar">deletar</string>
+    <string name="label_you_dont">Ops!! Você não possui \nnenhuma tarefa para hoje</string>
+</resources>
